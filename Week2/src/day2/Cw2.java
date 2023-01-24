@@ -12,7 +12,7 @@ public class Cw2 {
 		name[1]=new Scanner(System.in).nextLine();
 		System.out.print(" Third Name: ");
 		name[2]=new Scanner(System.in).nextLine();
-	
+		
 		
 		
 		
