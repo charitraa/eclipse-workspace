@@ -1,5 +1,4 @@
 package day2;
-
 public class CoreJava {
 	public static void main(String[]args) { 
 		
@@ -27,6 +26,7 @@ public class CoreJava {
 		
 		
 		System.out.println();
+		
 		
 		
 	}
