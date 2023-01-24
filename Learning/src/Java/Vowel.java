@@ -5,7 +5,7 @@ public class Vowel{
 public static void main(String[] args){
 
 Scanner min= new Scanner(System.in);
-
+min.close();
 System.out.print("enter a letter= ");
 String Letter= min.nextLine();
 String lowercase, uppercase;
