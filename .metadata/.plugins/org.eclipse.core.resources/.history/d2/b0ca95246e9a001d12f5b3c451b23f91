@@ -1,8 +1,0 @@
-package Java;
-
-public class Integers {
-	public static void main(String[] args) {
-        String x ="Ravi";
-        String y ="Ravi";
-	}
-}
