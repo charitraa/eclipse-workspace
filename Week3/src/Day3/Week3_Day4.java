@@ -32,8 +32,6 @@ public class Week3_Day4 {
 		System.out.print("Int: " +in);
 		System.out.println(Integer.MAX_VALUE);
 		System.out.println(Integer.MIN_VALUE);
-		
-		
 		String str2= new String();
 		Long ln ;
 		System.out.println("enter the number :");
