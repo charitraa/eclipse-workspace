@@ -1,7 +1,6 @@
 package Day3;
 import java.util.Scanner;
 public class Week3_Day4 {
-	private static final String Int = null;
 
 	public static void main(String[]args) {
 		/*
