@@ -2,13 +2,9 @@ package Day3;
 import java.util.*;
 public class IfStatement {
 	public static void main(String[]args) {
-		
 		/*
 		 /byte bn =1; //if(bn==1) //System.out.println("one"); //if(bn==2) //
-		  System.out.println("Two"); // if(bn==3) // System.out.println("Three");
-		 
-		 example 2
-		  
+		  System.out.println("Two"); // if(bn==3) // System.out.println("Three")
 		  //byte bn = 10; //if(bn!=0) //System.out.println("Non zero");
 		 */	
 //		example 3
@@ -57,7 +53,7 @@ public class IfStatement {
 //			else 
 //		System.out.println("Nine");
 		
-		//example 6
+//example 6
 		
 //		byte n1=7, n2=8,n3=9,n4=0;
 //		if(n1>n2)
@@ -106,27 +102,17 @@ public class IfStatement {
 
 
 
-byte start=1;
-byte stop=10;
+	byte start=1;
+	byte stop=10;
 System.out.println("Enter any number: ");
 start = new Scanner(System.in).nextByte();3
 System.out.println("Enter any number: ");
 stop = new Scanner(System.in).nextByte();
 
 while(start<=stop){
-	System.out.println(start+ "");
-	start+=1;
+	System.out.println(""+start);
+	start++;
 }
-
-
-
-
-
-
-
-
-
-
-		}
-	}
+}
+}
 
