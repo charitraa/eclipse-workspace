@@ -1,5 +1,5 @@
 package Day3;
-import java.util.*;
+//import java.util.*;
 public class IfStatement {
 	public static void main(String[]args) {
 		/*
