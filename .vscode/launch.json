@@ -1,0 +1,483 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Array1",
+            "request": "launch",
+            "mainClass": "Week4/Day1.Array1",
+            "projectName": "Week4"
+        },
+        {
+            "type": "java",
+            "name": "Launch ScopeLifeTime",
+            "request": "launch",
+            "mainClass": "Week4/Day1.ScopeLifeTime",
+            "projectName": "Week4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Data",
+            "request": "launch",
+            "mainClass": "Java.Data",
+            "projectName": "Learning"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hi",
+            "request": "launch",
+            "mainClass": "Java.Hi",
+            "projectName": "Learning"
+        },
+        {
+            "type": "java",
+            "name": "Launch Integers",
+            "request": "launch",
+            "mainClass": "Java.Integers",
+            "projectName": "Learning"
+        },
+        {
+            "type": "java",
+            "name": "Launch Users",
+            "request": "launch",
+            "mainClass": "Java.Users",
+            "projectName": "Learning"
+        },
+        {
+            "type": "java",
+            "name": "Launch Vowel",
+            "request": "launch",
+            "mainClass": "Java.Vowel",
+            "projectName": "Learning"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "Day1.App",
+            "projectName": "Week1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculate",
+            "request": "launch",
+            "mainClass": "Day1.Calculate",
+            "projectName": "Week1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculator",
+            "request": "launch",
+            "mainClass": "Day1.Calculator",
+            "projectName": "Week1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculator3",
+            "request": "launch",
+            "mainClass": "Day1.Calculator3",
+            "projectName": "Week1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Math1",
+            "request": "launch",
+            "mainClass": "Day1.Math1",
+            "projectName": "Week1"
+        },
+        {
+            "type": "java",
+            "name": "Launch My_window",
+            "request": "launch",
+            "mainClass": "Day1.My_window",
+            "projectName": "Week1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Day1.Test",
+            "projectName": "Week1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Week1",
+            "request": "launch",
+            "mainClass": "Day1.Week1",
+            "projectName": "Week1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Average",
+            "request": "launch",
+            "mainClass": "day2.Average",
+            "projectName": "Week2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculator(1)",
+            "request": "launch",
+            "mainClass": "day2.Calculator",
+            "projectName": "Week2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class1Test",
+            "request": "launch",
+            "mainClass": "day2.Class1Test",
+            "projectName": "Week2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Conversion",
+            "request": "launch",
+            "mainClass": "day2.Conversion",
+            "projectName": "Week2"
+        },
+        {
+            "type": "java",
+            "name": "Launch CoreJava",
+            "request": "launch",
+            "mainClass": "day2.CoreJava",
+            "projectName": "Week2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cw2",
+            "request": "launch",
+            "mainClass": "day2.Cw2",
+            "projectName": "Week2"
+        },
+        {
+            "type": "java",
+            "name": "Launch EnumTest1",
+            "request": "launch",
+            "mainClass": "day2.EnumTest1",
+            "projectName": "Week2"
+        },
+        {
+            "type": "java",
+            "name": "Launch InfTest",
+            "request": "launch",
+            "mainClass": "day2.InfTest",
+            "projectName": "Week2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Multiply",
+            "request": "launch",
+            "mainClass": "day2.Multiply",
+            "projectName": "Week2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Assignment",
+            "request": "launch",
+            "mainClass": "Day3.Assignment",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Assignment1",
+            "request": "launch",
+            "mainClass": "Day3.Assignment1",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Assignment2",
+            "request": "launch",
+            "mainClass": "Day3.Assignment2",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Assignment5",
+            "request": "launch",
+            "mainClass": "Day3.Assignment5",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_3_2",
+            "request": "launch",
+            "mainClass": "Day3.Example_3_2",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise1",
+            "request": "launch",
+            "mainClass": "Day3.Exercise1",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise3_1",
+            "request": "launch",
+            "mainClass": "Day3.Exercise3_1",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1_10",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1_10",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1_11",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1_11",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1_12",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1_12",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1_13",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1_13",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1_14",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1_14",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1_15",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1_15",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1_16",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1_16",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1_17",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1_17",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1_18",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1_18",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1_19",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1_19",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1_2",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1_2",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1_20",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1_20",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1_21",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1_21",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1_22",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1_22",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1_23",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1_23",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1_24",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1_24",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1_25",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1_25",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1_26",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1_26",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1_4",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1_4",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1_5",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1_5",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1_6",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1_6",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1_7",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1_7",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1_8",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1_8",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_1_9",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_1_9",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_3",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_3",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_3_3",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_3_3",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_3_4",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_3_4",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_4",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_4",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_5",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_5",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise_6",
+            "request": "launch",
+            "mainClass": "Day3.Exercise_6",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch IfStatement",
+            "request": "launch",
+            "mainClass": "Day3.IfStatement",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quizery",
+            "request": "launch",
+            "mainClass": "Day3.Quizery",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch SecretClass",
+            "request": "launch",
+            "mainClass": "Day3.SecretClass",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Week3_Day4",
+            "request": "launch",
+            "mainClass": "Day3.Week3_Day4",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Launch FunctionTest",
+            "request": "launch",
+            "mainClass": "Week4/Day1.FunctionTest",
+            "projectName": "Week4"
+        }
+    ]
+}
