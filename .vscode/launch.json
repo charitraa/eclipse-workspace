@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Calculator_Test",
+            "request": "launch",
+            "mainClass": "Week4/Day2.Calculator_Test",
+            "projectName": "Week4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loop1",
+            "request": "launch",
+            "mainClass": "Week4/Day2.Loop1",
+            "projectName": "Week4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loop",
+            "request": "launch",
+            "mainClass": "Week4/Day2.Loop",
+            "projectName": "Week4"
+        },
+        {
+            "type": "java",
+            "name": "Launch PersonTest",
+            "request": "launch",
+            "mainClass": "Week4/Day2.PersonTest",
+            "projectName": "Week4"
+        },
+        {
+            "type": "java",
             "name": "Launch Array1",
             "request": "launch",
             "mainClass": "Week4/Day1.Array1",
