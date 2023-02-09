@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LoopingTest",
+            "request": "launch",
+            "mainClass": "Week4/Day3.LoopingTest",
+            "projectName": "Week4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Java.Main",
+            "projectName": "Learning"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Java.Test",
+            "projectName": "Learning"
+        },
+        {
+            "type": "java",
+            "name": "Launch Desending",
+            "request": "launch",
+            "mainClass": "Week4/Day2.Desending",
+            "projectName": "Week4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ascending",
+            "request": "launch",
+            "mainClass": "Week4/Day2.Ascending",
+            "projectName": "Week4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Search",
+            "request": "launch",
+            "mainClass": "Week4/Day2.Search",
+            "projectName": "Week4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Min",
+            "request": "launch",
+            "mainClass": "Week4/Day2.Min",
+            "projectName": "Week4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Max",
+            "request": "launch",
+            "mainClass": "Week4/Day2.Max",
+            "projectName": "Week4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Print",
+            "request": "launch",
+            "mainClass": "Week4/Day2.Print",
+            "projectName": "Week4"
+        },
+        {
+            "type": "java",
             "name": "Launch Calculator_Test",
             "request": "launch",
             "mainClass": "Week4/Day2.Calculator_Test",
