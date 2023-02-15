@@ -10,6 +10,7 @@ public class Calculator {
 		JFrame frame = new JFrame("Calculator");
 		frame.setSize(450, 500);
 		frame.setVisible(true);
+		frame.setResizable(false);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setLayout(null);
 		JLabel l1 = new JLabel("Number 1: ");

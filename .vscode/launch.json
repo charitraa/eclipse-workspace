@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Array",
+            "request": "launch",
+            "mainClass": "Week5/Day2.Array",
+            "projectName": "Week5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Week_DAy1",
+            "request": "launch",
+            "mainClass": "Week5/Day1.Week_DAy1",
+            "projectName": "Week5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test1",
+            "request": "launch",
+            "mainClass": "saparsha.Test1",
+            "projectName": "Week4"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyWindow3",
+            "request": "launch",
+            "mainClass": "Day4.MyWindow3",
+            "projectName": "Week4"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyWindow2",
+            "request": "launch",
+            "mainClass": "Day3.MyWindow2",
+            "projectName": "Week4"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyCalcultor2",
+            "request": "launch",
+            "mainClass": "Week4/Day3.MyCalcultor2",
+            "projectName": "Week4"
+        },
+        {
+            "type": "java",
             "name": "Launch LoopingTest",
             "request": "launch",
             "mainClass": "Week4/Day3.LoopingTest",
