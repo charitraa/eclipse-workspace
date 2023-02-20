@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Dimension",
+            "request": "launch",
+            "mainClass": "saparsha.Dimension",
+            "projectName": "Week4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Minal",
+            "request": "launch",
+            "mainClass": "saparsha.Minal",
+            "projectName": "Week4"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyCalcultor2",
+            "request": "launch",
+            "mainClass": "Day3.MyCalcultor2",
+            "projectName": "Week4"
+        },
+        {
+            "type": "java",
             "name": "Launch Array",
             "request": "launch",
             "mainClass": "Week5/Day2.Array",
