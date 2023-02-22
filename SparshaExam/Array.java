@@ -5,7 +5,7 @@ import java.util.*;
 public class Array {
     public static void main(String[] args) {
         String[] g = { "ravis", "charitra", "neha", "Susan" };
-
+        //changing Array to ArrayList
         List a = Arrays.asList(g);
 
         System.out.println(a);
