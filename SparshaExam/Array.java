@@ -18,7 +18,8 @@ public class Array {
         ArrLis.add(98);
         ArrLis.add(100);
         System.out.println("ArrayList: "
-                + ArrLis);
+                + ArrLis);//print the array
+        //changing arrraylist to array
         Object[] arr = ArrLis.toArray();
 
         System.out.println("Elements of ArrayList"
