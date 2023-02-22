@@ -1,11 +1,12 @@
 package Day4;
 
 import javax.swing.*;
+
+import Day4.Lib.Class2;
+import Day4.Lib.MyLibrary2;
+
 import java.awt.*;
 import java.awt.event.*;
-
-import Lib.Class2; //User Defined Data Type
-import Lib.MyLibrary2; //Library
 
 public class MyWindow3 implements ActionListener {
     JFrame frame; // declare
