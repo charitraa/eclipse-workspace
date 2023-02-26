@@ -5,7 +5,7 @@ import java.util.*;
 public class Array {
     public static void main(String[] args) {
         String[] g = { "ravis", "charitra", "neha", "Susan" };
-
+        //changing Array to ArrayList
         List a = Arrays.asList(g);
 
         System.out.println(a);
@@ -18,7 +18,8 @@ public class Array {
         ArrLis.add(98);
         ArrLis.add(100);
         System.out.println("ArrayList: "
-                + ArrLis);
+                + ArrLis);//print the array
+        //changing arrraylist to array
         Object[] arr = ArrLis.toArray();
 
         System.out.println("Elements of ArrayList"
