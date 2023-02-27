@@ -11,13 +11,14 @@ import java.awt.event.ActionEvent;
 
 public class MyWindow2 implements ActionListener {
     JFrame frame;
-    JButton b1;
+    JButton b1, b2;
     JLabel l1;
     JTextField t1;
 
     public MyWindow2() {
         frame = new JFrame();
         b1 = new JButton();
+        b2 = new JButton();
         l1 = new JLabel();
         t1 = new JTextField();
 
@@ -34,6 +35,12 @@ public class MyWindow2 implements ActionListener {
         b1.setBounds(20, 100, 70, 40);
         frame.add(b1);
         b1.addActionListener(this);
+
+        b2.setText("Close");
+        b2.setBounds(150, 160, 80, 30);
+        b2.addActionListener(this);
+        frame.add(b2);
+
         frame.setResizable(false);
         frame.setLayout(null);
     }
@@ -43,6 +50,9 @@ public class MyWindow2 implements ActionListener {
             // System.out.println("click on b1");
             String temp = t1.getText();
             System.out.println(temp);
+        }
+        if (ae.getSource() == b2) {
+            MyWindow2.dispose();
         }
 
     }

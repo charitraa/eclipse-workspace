@@ -1,12 +1,14 @@
-package Day4;
+package day1;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
-import javax.swing.*;
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JTextField;
 
-import Day4.Lib.Class2;
-import Day4.Lib.MyLibrary2;
-
-import java.awt.*;
-import java.awt.event.*;
+import Lib.Class2;
+import Lib.MyLibrary2;
 
 public class MyWindow3 implements ActionListener {
     JFrame frame; // declare
@@ -16,7 +18,7 @@ public class MyWindow3 implements ActionListener {
     JTextField txtNum1;
     JTextField txtNum2;
     JTextField txtNum3;
-    JButton btnAdd;
+    JButton btnAdd, b;
 
     public MyWindow3() {
         frame = new JFrame(); // initializes
@@ -27,6 +29,7 @@ public class MyWindow3 implements ActionListener {
         txtNum2 = new JTextField();
         txtNum3 = new JTextField();
         btnAdd = new JButton();
+        b = new JButton();
 
         frame.setSize(600, 600);
         frame.setTitle("MyWindow3");
@@ -50,10 +53,13 @@ public class MyWindow3 implements ActionListener {
 
         lblNum3.setText("Result");
         lblNum3.setBounds(20, 175, 70, 40);
+        b.setText("close");
+        b.setBounds(20, 250, 70, 40);
 
         txtNum3.setText("");
         txtNum3.setBounds(100, 175, 100, 40);
         btnAdd.addActionListener(this);
+        b.addActionListener(this);
 
         frame.add(lblNum1);
         frame.add(lblNum2);
@@ -62,6 +68,7 @@ public class MyWindow3 implements ActionListener {
         frame.add(txtNum2);
         frame.add(txtNum3);
         frame.add(btnAdd);
+        frame.add(b);
         frame.setVisible(true);
     }
 
@@ -78,6 +85,9 @@ public class MyWindow3 implements ActionListener {
             txtNum3.setText(obj1.toString());
             MyLibrary2 lib1 = new MyLibrary2();
             lib1.receiveValue(obj1);
+        }
+        if (ae.getSource() == b) {
+            MyWindow3.dispose();
         }
     }
 

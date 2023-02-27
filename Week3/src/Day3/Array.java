@@ -21,10 +21,11 @@ public class Array {
 
         for (int i = 0; i < num.length - 1; i++) {
             for (int j = i + 1; j < num.length; j++) {
-                if(num[j] == search) {
+                if (num[j] == search) {
 
+                }
             }
-        }
 
+        }
     }
 }

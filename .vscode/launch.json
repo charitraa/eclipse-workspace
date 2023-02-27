@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Window1",
+            "request": "launch",
+            "mainClass": "Day2.Window1",
+            "projectName": "Week5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyWindow3",
+            "request": "launch",
+            "mainClass": "Day4.MyWindow3",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch MyWindow2",
+            "request": "launch",
+            "mainClass": "Day3.MyWindow2",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Gui",
+            "request": "launch",
+            "mainClass": "Week6Gui.Gui",
+            "projectName": "Week6"
+        },
+        {
+            "type": "java",
             "name": "Launch Dimension",
             "request": "launch",
             "mainClass": "saparsha.Dimension",
