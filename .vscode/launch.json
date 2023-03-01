@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GUI3",
+            "request": "launch",
+            "mainClass": "week6.day3.GUI3",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "CRUD1",
+            "request": "launch",
+            "mainClass": "week7.day2.CRUD1",
+            "projectName": "JDBC"
+        },
+        {
+            "type": "java",
+            "name": "Arraya",
+            "request": "launch",
+            "mainClass": "Day2.Arraya",
+            "projectName": "Week6"
+        },
+        {
+            "type": "java",
+            "name": "Menu",
+            "request": "launch",
+            "mainClass": "Week6Gui.Menu",
+            "projectName": "Week6"
+        },
+        {
+            "type": "java",
             "name": "Launch Window1",
             "request": "launch",
             "mainClass": "Day2.Window1",

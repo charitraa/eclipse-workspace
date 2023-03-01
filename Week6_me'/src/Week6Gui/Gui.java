@@ -63,6 +63,7 @@ class login implements ActionListener {
 
             if (uname.equals("admin") && pass.equals("admin")) {
                 Menu me = new Menu();
+                me.setVisible(true);
 
             } else {
                 JOptionPane.showMessageDialog(frame, "invalid username or password");

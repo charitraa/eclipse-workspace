@@ -80,6 +80,17 @@ public class Window1 extends JFrame implements ActionListener {
         if (ae.getSource() == b2) {
             this.dispose();
         }
+        // for login pages
+        if (ae.getSource() == b1) {
+            String user = t1.getText();
+            String password = t2.getText();
+            if (user.equals("sparsha") && password.equals("sparsha")) {
+                JOptionPane.showMessageDialog(this, "Login Successfully");
+
+            } else {
+                JOptionPane.showMessageDialog(this, "Invalid Username and Password");
+            }
+        }
     }
 
 }
