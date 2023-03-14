@@ -8,6 +8,8 @@
 		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE" value="true"/>
 		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION" value="false"/>
 		<list key="orderedElements">
+			<item value="org.eclipse.ui.navigator.ProjectExplorer"/>
+			<item value="org.eclipse.jdt.ui.ProjectsView"/>
 			<item value="org.eclipse.debug.ui.launchView"/>
 			<item value="org.eclipse.debug.ui.DebugView"/>
 			<item value="org.eclipse.jdt.ui.SourceView"/>
@@ -20,6 +22,8 @@
 			<item value="org.eclipse.e4.ui.parts"/>
 			<item value="org.eclipse.e4.ui.parts"/>
 			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.e4.ui.parts"/>
 		</list>
 		<list key="textEntries">
 			<item value="1"/>
@@ -27,8 +31,12 @@
 			<item value="1"/>
 			<item value="1"/>
 			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
 		</list>
 		<list key="textArray">
+			<item value="project"/>
+			<item value="pro"/>
 			<item value="debug"/>
 			<item value="debu"/>
 			<item value="de"/>
